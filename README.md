@@ -1,4 +1,4 @@
-# code-20210512-hemasaini
+# BMI Calculator
 This script will calculate BMI and BMI category .
 Prerequisites
 You only need to have installed pandas.
