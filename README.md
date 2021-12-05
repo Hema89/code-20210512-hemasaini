@@ -7,7 +7,7 @@ $ pip install pandas
 #How to run the script
 -Run below command
 python BMIs.py
-![image](https://user-images.githubusercontent.com/38342523/144738658-8045d86d-6949-4fe7-bf7c-9f2d7887b36c.pn
+![image](https://user-images.githubusercontent.com/38342523/144738658-8045d86d-6949-4fe7-bf7c-9f2d7887b36c.png)
 
 
 #How to test the code
